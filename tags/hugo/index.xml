@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on Eric Blog</title><link>https://erichen0208.github.io/tags/hugo/</link><description>Recent content in Hugo on Eric Blog</description><generator>Hugo</generator><language>zh-tw</language><lastBuildDate>Fri, 20 Jun 2025 10:00:00 +0000</lastBuildDate><atom:link href="https://erichen0208.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>統一格式的文章</title><link>https://erichen0208.github.io/posts/my-first-post/</link><pubDate>Fri, 20 Jun 2025 10:00:00 +0000</pubDate><guid>https://erichen0208.github.io/posts/my-first-post/</guid><description>這樣：
+CSS 會直接放頁面上，不需要外部 CSS 檔案
+文字會佔左邊約 2/3，圖片佔右邊約 1/3，且圖片會等比例縮放
+手機螢幕寬度會改成上下排列，圖片自動縮放
+儲存完，執行 hugo server -D，在瀏覽器開啟本地頁面就能看到效果。</description></item><item><title>統一格式的文章</title><link>https://erichen0208.github.io/posts/my-second-post/</link><pubDate>Fri, 20 Jun 2025 10:00:00 +0000</pubDate><guid>https://erichen0208.github.io/posts/my-second-post/</guid><description>這是一個統一格式的文章摘要，長度適中。</description></item></channel></rss>
